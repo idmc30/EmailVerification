@@ -1,9 +1,12 @@
 # EmailVerification
-Verificando usuarios enviando email para validar su sesion usando laravel 5.7
+Verificando usuarios, enviando email para validar su sesion usando laravel 5.7
+
+###Documentacion oficial
+*[Laravel 5.7](https://laravel.com/docs/5.7/verification#after-verifying-emails)
 
 
 ## Para utlizar el proyecto
-1. Deben tener una cuenta de [Mailtrap](https://mailtrap.io/)
+1. Descargar la rama **idmc**, Deben tener una cuenta de [Mailtrap](https://mailtrap.io/)
 
 2. Modificar las credenciales en en ".env" de las siguiente manera:
 
