@@ -27,4 +27,17 @@ class User extends Authenticatable implements MustVerifyEmail
     protected $hidden = [
         'password', 'remember_token',
     ];
+
+  /**
+     * Send the email verification notification.
+     *
+     * @return void
+     */
+    public function sendEmailVerificationNotification()
+    {
+        $this->notify(new Iluminate\Auth\Notifications\VerifyEmail);
+    }
+
+
+
 }
