@@ -23,6 +23,9 @@ php artisan serve
  >http://localhost:8000/
 5. Abrir una nueva consola, dirigirse al proyecto y ejecutar las migraciones  
 
+#!/bin/bash
+echo "Hola mundo"
 ~~~ 
+#!/bin/bash
 php artisan:migrate
 ~~~
