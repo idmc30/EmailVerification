@@ -4,6 +4,7 @@ Verificando usuarios enviando email para validar su sesion usando laravel 5.7
 
 Para utlizar el proyecto
 1.- Deben tener una cuenta de mailtrap ->https://mailtrap.io/
+
 2.-Modificar las credenciales en en ".env" de las siguiente manera:
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.mailtrap.io
