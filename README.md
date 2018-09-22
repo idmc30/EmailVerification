@@ -23,6 +23,6 @@ php artisan serve
  >http://localhost:8000/
 5. Abrir una nueva consola, dirigirse al proyecto y ejecutar las migraciones  
 
-**~~~ 
+~~~ 
 php artisan:migrate
-**~~~
+~~~
