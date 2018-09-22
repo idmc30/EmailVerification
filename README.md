@@ -21,4 +21,7 @@ Verificando usuarios enviando email para validar su sesion usando laravel 5.7
 php artisan serve 
 ~~~ 
  >*http://localhost:8000/
-5. Abrir una nueva consola, dirigirse al proyecto y ejecutar las migraciones php ~~~ artisan:migrate ~~~
+5. Abrir una nueva consola, dirigirse al proyecto y ejecutar las migraciones php 
+~~~ 
+artisan:migrate 
+~~~
