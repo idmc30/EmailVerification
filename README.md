@@ -1,8 +1,8 @@
 # EmailVerification
 Verificando usuarios, enviando email para validar su sesion usando laravel 5.7
 
-###Documentacion oficial
-*[Laravel 5.7](https://laravel.com/docs/5.7/verification#after-verifying-emails)
+### Documentacion oficial
+* [Laravel 5.7](https://laravel.com/docs/5.7/verification#after-verifying-emails)
 
 
 ## Para utlizar el proyecto
